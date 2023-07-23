@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "test-db",
+    "password": "pass",
+    "database": "hoaxify",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage":"./dev.sqlite"
+  }
+}
